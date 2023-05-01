@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **aravindtone@gmail.com**
 
-- 📄 Know about my experiences [Cloud-Resume](http://43.205.175.145:3000/)
+- 📄 A little bit more at [My-Website](http://43.205.175.145:3000/)
+
+- 📄 Find my Resume at [My-Resume]([http://43.205.175.145:3000/](https://drive.google.com/file/d/1EitnJA9I0YmqXYxz5lPf8T9Wm6zrH2uM/view))
 
 - ⚡ Fun fact **I'am Funny**
 
