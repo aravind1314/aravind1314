@@ -13,8 +13,6 @@
 
 - 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/1EitnJA9I0YmqXYxz5lPf8T9Wm6zrH2uM/view)
 
-- ⚡ Fun fact **I'am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aravindtm1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravindtm1314" height="30" width="40" /></a>
