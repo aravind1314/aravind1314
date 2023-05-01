@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Devops and cloud projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aravind1314](https://github.com/aravind1314)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/aravind1314?tab=repositories)
 
 - 📫 How to reach me **aravindtone@gmail.com**
 
