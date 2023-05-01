@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind1314&label=Profile%20views&color=0e75b6&style=flat" alt="aravind1314" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind1314" alt="aravind1314" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Configuration Automation**
 
 - 👯 I’m looking to collaborate on **Devops and cloud projects**
@@ -15,7 +13,6 @@
 
 - ⚡ Fun fact **I'am Funny**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
