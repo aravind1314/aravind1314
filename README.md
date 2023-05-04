@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **aravindtone@gmail.com**
 
-- 📄 A little bit more at [My-Website](http://43.205.175.145:3000/)
+- 📄 A little bit more at [My-Website](https://aravind.live/)
 
-- 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/1EitnJA9I0YmqXYxz5lPf8T9Wm6zrH2uM/view)
+- 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/1lA4RVgbU3M3Wzm5BAxKOowvmxdhe_l3E/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
