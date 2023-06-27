@@ -11,7 +11,7 @@
 
 - 📄 A little bit more at [My-Website](https://aravind.live/)
 
-- 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/1iWRKwCAgdRq8n86J5KqhLXUzzkQGUh2H/view?usp=share_link)
+- 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/1hIkFGw-ASjj-xoXIWReKUcg2R_3wk4E9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
