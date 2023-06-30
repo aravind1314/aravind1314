@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind1314&label=Profile%20views&color=0e75b6&style=flat" alt="aravind1314" /> </p>
 
-- 🌱 I’m currently learning **Python and Configuration Automation**
-
 - 👯 I’m looking to collaborate on **Devops and cloud projects**
 
 - 📫 How to reach me **aravindtone@gmail.com**
