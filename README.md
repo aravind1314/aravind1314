@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aravindtone@gmail.com**
 
-- 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/1jwofkCuI4ccsLb4vrTogBRSAurlEgl0N/view?usp=sharing)
+- 📄 Find my Resume at [My-Resume](https://drive.google.com/file/d/134Eb2u9-631b7TAERFxFuAZ7TRz5ax67/view?usp=sharing)
 
 </p>
 
